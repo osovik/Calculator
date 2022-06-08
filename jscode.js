@@ -1,5 +1,5 @@
 // noinspection JSValidateTypes
-
+//test ssh
 let input1 = document.getElementById('number1');
 let input2 = document.getElementById('number2');
 //test comit
