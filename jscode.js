@@ -2,7 +2,7 @@
 
 let input1 = document.getElementById('number1');
 let input2 = document.getElementById('number2');
-
+//test comit
 function addition() {
     let number1 = input1.value;
     number1 = parseInt(number1);
